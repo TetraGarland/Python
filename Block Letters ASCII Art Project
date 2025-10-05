@@ -1,0 +1,12 @@
+#Full Name: Chris Mauro
+#Fun Fact: I like to build things
+print ("CM:\n")
+print ("""
+   C C C       M         M
+ C       C     M M     M M
+ C             M M     M M
+ C             M    M    M
+ C             M         M
+ C       C     M         M
+   C C C       M         M
+                       """)
