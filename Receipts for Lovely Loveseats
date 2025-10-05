@@ -9,9 +9,11 @@ sales_tax = .088
 
 customer_one_total = 0
 customer_one_itemization = ""
+
 #Add Lovely Loveseat to customer one
 customer_one_total += lovely_loveseat_price
 customer_one_itemization += lovely_loveseat_description
+
 #Add Luxurious Lamp to customer one
 customer_one_total += luxurious_lamp_price
 customer_one_itemization += luxurious_lamp_description
